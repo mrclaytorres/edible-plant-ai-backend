@@ -109,7 +109,7 @@ class_map.json
 *.pt
 .idea*
 ai/corrections/*
-!corrections
+!ai/corrections/
 *.keystore
 ai/replay_buffer/*
-!replay_buffer
+!ai/replay_buffer/
