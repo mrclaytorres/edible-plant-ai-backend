@@ -110,8 +110,11 @@ class_map.json
 .idea*
 ai/corrections/*
 !ai/corrections/
+!ai/corrections/.gitkeep
 ai/corrections/processed/*
 !ai/corrections/processed/
+!ai/corrections/processed/.gitkeep
 *.keystore
 ai/replay_buffer/*
 !ai/replay_buffer/
+!ai/replay_buffer/.gitkeep
