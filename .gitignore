@@ -110,6 +110,8 @@ class_map.json
 .idea*
 ai/corrections/*
 !ai/corrections/
+ai/corrections/processed/*
+!ai/corrections/processed/
 *.keystore
 ai/replay_buffer/*
 !ai/replay_buffer/
